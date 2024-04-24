@@ -1,7 +1,6 @@
 +++
 title = 'Plano de Trabalho'
 date = 2024-04-23T07:07:07+01:00
-featured_image = "img/cct20240421grgsgk.jpeg"
 draft = false
 +++
 
