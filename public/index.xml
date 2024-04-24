@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plano de Trabalho on Cássio23</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Plano de Trabalho on Cássio23</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 23 Apr 2024 12:00:00 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apresentação</title>
+      <link>http://example.org/01apresentacao/</link>
+      <pubDate>Tue, 23 Apr 2024 07:07:07 +0100</pubDate>
+      
+      <guid>http://example.org/01apresentacao/</guid>
+      <description>Sou Professor Titular do Departamento de Física da UFRR. Bacharel pela UNICAMP. Mestre e Doutor pela USP. Na área da Física da Matéria Condensada, estudo as propriedades ópticas e de transporte de heteroestruturas semicondutoras, utilizando fotoluminescência, efeito Hall quântico e oscilações de Shubnikov-de Haas. No meio ambiente, identifico e caracterizo minerais de solos e rochas de Roraima, através da difração de raios X. Em física quântica computacional, simulo a estrutura eletrônica de aglomerados atômicos.</description>
+    </item>
+    
+    <item>
+      <title>Plano de Trabalho</title>
+      <link>http://example.org/02planotrabalho/</link>
+      <pubDate>Tue, 23 Apr 2024 07:07:07 +0100</pubDate>
+      
+      <guid>http://example.org/02planotrabalho/</guid>
+      <description>Cássio Sanguini Sergio Número de Votação 23  NATUREZA DOS PROBLEMAS E MÉTODO PARA RESOLVÊ-LOS  O CCT é composto pelos seguintes departamentos:
+   Sigla Departamento     DFIS Departamento de Física   DQUI Departamento de Química   DMAT Departamento de Matemática   DEE Departamento de Engenharia Elétrica   DEEC Departamento de Engenharia Civil   DCC Departamento de Ciência da Computação   DAU Departamento de Arquitetura e Urbanismo    Há dois tipos de problemas.</description>
+    </item>
+    
+  </channel>
+</rss>
