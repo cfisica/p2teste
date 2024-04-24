@@ -1,7 +1,7 @@
 +++
 title = 'Apresentação'
 date = 2024-04-23T07:07:07+01:00
-featured_image = "/img/eu23.png"
+featured_image = "img/eu23.png"
 draft = false
 +++
 
